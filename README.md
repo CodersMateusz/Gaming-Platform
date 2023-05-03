@@ -29,4 +29,6 @@ This is the react-app called game-hub that is based on original webpage - rawg.i
 - Clone or download zipped code
 - Run terminal in your IDE
 - Run npm install / npm i
+- Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
+- Add the API key to src/services/api-client.ts
 - Run npm run dev
