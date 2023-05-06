@@ -1,6 +1,6 @@
-# game-hub
+# Gaming-Platform
 
-This is the react-app called game-hub that is based on original webpage - rawg.io.
+This is the react-app called Gaming-Platform that is based on original webpage - rawg.io.
 
 ## Sections of the project
 
