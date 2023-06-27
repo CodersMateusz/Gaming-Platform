@@ -1,7 +1,7 @@
 # Gaming-Platform
 
 This is the react-app called Gaming-Platform that is based on original webpage - rawg.io.
-It allows to search, filter and sort games and also see every game detail page when you click the tile of the game.
+It allows to search, filter and sort games and also see every game detail page when you click the title of the game.
 
 ## Sections of the project
 
