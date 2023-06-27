@@ -16,6 +16,7 @@ It allows to search, filter and sort games and also see every game detail page w
 - React.js
 - React-Router
 - React-Query
+- Zustand
 - Chakra UI (React component library)
 - Axios API (API is from rawg.io)
 - Vite (to create app)
